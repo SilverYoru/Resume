@@ -44,13 +44,13 @@ General Assembly | Product Management
 Savannah State University | Bachelor of Fine Arts 
 
 Projects
-• Atlanta Botanical Garden Mobile Page
+  *Atlanta Botanical Garden Mobile Page
 	• cristicamb.myportfolio.com/atlanta-botanical-garden-uxui-project
-• ADP Research Project
+  *ADP Research Project
 	• cristicamb.myportfolio.com/adp-uxui-research-project 
-• StationHop -Runner up Marta Hackathon Project
+  *StationHop -Runner up Marta Hackathon Project
 	• cristicamb.myportfolio.com/stationhop-marta-hackathon-final-version
 
 Achivements
-* • StationHop | Runner up | Marta Hackathon Project
-* • Honey Villege 360 |  2nd Place | Atl Thinks Sustainability Hackathon Project
+* StationHop | Runner up | Marta Hackathon Project
+* Honey Villege 360 |  2nd Place | Atl Thinks Sustainability Hackathon Project
