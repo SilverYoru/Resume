@@ -3,16 +3,16 @@ Cristianna Cambrice
 Atlanta, Ga | 678-595-3826
 cristicamb@gmail.com | cristicamb.myportfolio.com | linkedin.com/in/cambricec
 
-Summary 
+# Summary 
 I am User Experience Designer with training in Product Management that enjoys aligning the business goals with customer goals to make the best product. 
 
-##Skills 
+**Skills**
 User Experience Research, Interviewing, Wireframing, Sketching, Prototyping, User Interface Design, Interaction Design, Usability Testing, Sitemaps, Competitive Analysis, Information Architecture, Heuristic Evaluations, Persona & Usage Scenarios, Responsive Design, Visual Design, Product planning, Release/Patch notes, Product Design 
 
-##Tools  
+**Tools**
 Adobe Creative Cloud, Axure, Invision, Pop app, Marvel, Sketch, Principle, Jira, Trello, Adobe XD, HTML5, CSS  
 
-##Relevant Experience
+# Relevant Experience
 Product Designer | ATL THINKS | Atlanta, Ga
 September 2018 – November 2018
 Created a sustainable Honey House out of shipping containers using a 3D cad progam to help increase awareness for bees, thier life-cycle, and how they effct the way we live, and ; created an in-house honey havesting kitchen and shop; create a business where the Airport can create and package their own honey. I was responsible for guiding user research with consumers and bee keepers, designing sustainable elements, design layout of containers, content strategy for how it affect the business, organizing and transmitting final deliverables.
