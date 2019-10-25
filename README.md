@@ -52,5 +52,5 @@ Projects
 	• cristicamb.myportfolio.com/stationhop-marta-hackathon-final-version
 
 Achivements
-• StationHop | Runner up | Marta Hackathon Project
-• Honey Villege 360 |  2nd Place | Atl Thinks Sustainability Hackathon Project
+* • StationHop | Runner up | Marta Hackathon Project
+* • Honey Villege 360 |  2nd Place | Atl Thinks Sustainability Hackathon Project
