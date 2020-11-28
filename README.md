@@ -1,6 +1,6 @@
 # Resume
 Cristianna Cambrice
-Atlanta, Ga | 678-595-3826
+Atlanta, Ga
 cristicamb@gmail.com | cristicamb.myportfolio.com | linkedin.com/in/cambricec
 
 # Summary 
